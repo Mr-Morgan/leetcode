@@ -22,10 +22,10 @@ https://leetcode.com/Mr-Morgan/
 #### [4. Median of Two Sorted Arrays](Task№4/algorithm.md),
 > ###### Array, Hard
 
-#### 5. Longest Palindromic Substring,
+#### [5. Longest Palindromic Substring](Task№5/algorithm.md),
 > ###### String, Medium
 
-#### 6. Zigzag Conversion,
+#### [6. Zigzag Conversion](Task№6/algorithm.md),
 > ###### String, Medium
 
 #### 7. Reverse Integer,

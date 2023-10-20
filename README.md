@@ -28,13 +28,13 @@ https://leetcode.com/Mr-Morgan/
 #### [6. Zigzag Conversion](Task№6/algorithm.md),
 > ###### String, Medium
 
-#### 7. Reverse Integer,
+#### [7. Reverse Integer](Task№7/algorithm.md),
 > ###### Math, Medium
 
-#### 8. String to Integer (atoi),
+#### [8. String to Integer (atoi)](Task№8/algorithm.md),
 > ###### String, Medium
 
-#### 9. Palindrome Number, 
+#### [9. Palindrome Number](Task№9/algorithm.md), 
 > ###### Math, Easy
 
 #### 13. Roman to Integer, 

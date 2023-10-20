@@ -10,7 +10,7 @@ https://leetcode.com/Mr-Morgan/
 
 ## My solutions:
 
-#### [1. Two Sum](Task#1/algorithm.md),
+#### [1. Two Sum](Task\#1/algorithm.md),
 > ###### Array, Hash Table, Easy
 
 #### [2. Add Two Numbers](Task#2/algorithm.md),

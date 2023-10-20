@@ -10,16 +10,16 @@ https://leetcode.com/Mr-Morgan/
 
 ## My solutions:
 
-#### 1. Two Sum,
+#### [1. Two Sum](Task#1/algorithm.md),
 > ###### Array, Hash Table, Easy
 
-#### 2. Add Two Numbers,
+#### [2. Add Two Numbers](Task#2/algorithm.md),
 > ###### Linked List, Medium
 
-#### 3. Longest Substring Without Repeating Characters,
+#### [3. Longest Substring Without Repeating Characters](Task#3/algorithm.md),
 > ###### Hash Table, Medium
 
-#### 4. Median of Two Sorted Arrays,
+#### [4. Median of Two Sorted Arrays](Task#4/algorithm.md),
 > ###### Array, Hard
 
 #### 5. Longest Palindromic Substring,

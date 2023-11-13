@@ -40,19 +40,19 @@ https://leetcode.com/Mr-Morgan/
 #### [13. Roman to Integer](Task№13/algorithm.md), 
 > ###### Hash Table, Math String, Easy
 
-#### 14. Longest Common Prefix, 
+#### [14. Longest Common Prefix](Task№14/algorithm.md), 
 > ###### String, Trie, Easy
 
-#### 15. 3Sum, 
+#### [15. 3Sum](Task№15/algorithm.md), 
 > ###### Array, Medium
 
-#### 19. Remove Nth Node From End of List, 
+#### [19. Remove Nth Node From End of List](Task№19/algorithm.md), 
 > ###### Linked List, Two Pointers, Medium
 
-#### 20. Valid Parentheses, 
+#### [20. Valid Parentheses](Task№20/algorithm.md), 
 > ###### String, Stack, Easy
 
-#### 21. Merge Two Sorted Lists, 
+#### [21. Merge Two Sorted Lists](Task№21/algorithm.md), 
 > ###### Linked List, Recursion, Easy
 
 #### 26. Remove Duplicates from Sorted Array, 
